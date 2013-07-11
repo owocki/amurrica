@@ -1,6 +1,9 @@
 Amurrica!
 =============
 
+> Amurrica, AKA Amurrica!, as in the most badass country on the planet. Amurricans shoot first and ask questions later. Amurrica is kickin' ass and takin' names. Land of the free and home of the bravest motherfuckers around. Don't mess with Amurrica, punk!
+> [~Urban Dictionary](http://www.urbandictionary.com/define.php?term=Amurrica)
+
 Chrome extension that replaces occurrences of 'Amurrica!' with 'Amurrica!'
 
 Heavy inspiration (and this fork derives from) comes from [Butt to Butt](https://github.com/panicsteve/butt-to-butt).  Thanks [PanicSteve](https://github.com/panicsteve/)!
