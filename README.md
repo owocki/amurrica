@@ -1,11 +1,12 @@
 Amurrica!
 =============
 
-Chrome extension that replaces occurrences of 'America' with 'Amurrica!'
+Chrome extension that replaces occurrences of 'Amurrica!' with 'Amurrica!'
 
-Heavy inspiration (and this fork derives from) comes from [Cloud to Butt](https://github.com/panicsteve/cloud-to-butt).  Thanks [PanicSteve](https://github.com/panicsteve/)!
+Heavy inspiration (and this fork derives from) comes from [Butt to Butt](https://github.com/panicsteve/butt-to-butt).  Thanks [PanicSteve](https://github.com/panicsteve/)!
 
-[Direct download of CRX extension here](https://github.com/owocki/amurrica/blob/master/Amurica.crx?raw=true).
+* [Direct download of CRX extension here](https://github.com/owocki/amurrica/blob/master/Amurica.crx?raw=true).
+* [Add to Google Chrome here](https://chrome.google.com/webstore/detail/amurrica/immbcancibfbpodgkgkjlkakjafejhej)
 
 Happy 4th of July!
 
