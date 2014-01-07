@@ -26,4 +26,6 @@ Happy 4th of July!
 <img src='http://cl.ly/image/3d1G130t353K/Screen%20Shot%202013-07-09%20at%204.30.53%20PM.png' />
 
 
+<!-- Google Analytics --> 
+<img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/amurrica' style='width:1px; height:1px;' >
 
