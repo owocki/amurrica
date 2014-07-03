@@ -12,7 +12,7 @@ Happy 4th of July!
 
 # Install it
 
-<a target="_blank" href="https://chrome.google.com/webstore/detail/kllcnmdcichbmjifobeckdkinimnakgp">![Try it now in CWS](http://bits.owocki.com/image/3d2t2h3j1J36/68747470733a2f2f7261772e6769746875622e636f6d2f476f6f676c654368726f6d652f6368726f6d652d6170702d73616d706c65732f6d61737465722f74727969746e6f77627574746f6e2e706e67.png "Click here to install this sample from the Chrome Web Store")</a>
+<a target="_blank" href="https://chrome.google.com/webstore/detail/immbcancibfbpodgkgkjlkakjafejhej">![Try it now in CWS](http://bits.owocki.com/image/3d2t2h3j1J36/68747470733a2f2f7261772e6769746875622e636f6d2f476f6f676c654368726f6d652f6368726f6d652d6170702d73616d706c65732f6d61737465722f74727969746e6f77627574746f6e2e706e67.png "Click here to install this sample from the Chrome Web Store")</a>
 
 
 # Screenshots
@@ -31,7 +31,7 @@ Happy 4th of July!
 
 # Install it
 
-<a target="_blank" href="https://chrome.google.com/webstore/detail/kllcnmdcichbmjifobeckdkinimnakgp">![Try it now in CWS](http://bits.owocki.com/image/3d2t2h3j1J36/68747470733a2f2f7261772e6769746875622e636f6d2f476f6f676c654368726f6d652f6368726f6d652d6170702d73616d706c65732f6d61737465722f74727969746e6f77627574746f6e2e706e67.png "Click here to install this sample from the Chrome Web Store")</a>
+<a target="_blank" href="https://chrome.google.com/webstore/detail/immbcancibfbpodgkgkjlkakjafejhej">![Try it now in CWS](http://bits.owocki.com/image/3d2t2h3j1J36/68747470733a2f2f7261772e6769746875622e636f6d2f476f6f676c654368726f6d652f6368726f6d652d6170702d73616d706c65732f6d61737465722f74727969746e6f77627574746f6e2e706e67.png "Click here to install this sample from the Chrome Web Store")</a>
 
 
 
