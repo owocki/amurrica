@@ -6,7 +6,7 @@ Amurrica!
 
 Thanks for stopping by the git repo for my chrome extension that replaces occurrences of 'Amurrica!' with 'Amurrica!`. Heavy inspiration (and this fork derives from) comes from [Butt to Butt](https://github.com/panicsteve/butt-to-butt).  Thanks [PanicSteve](https://github.com/panicsteve/)!
 
-* [Direct download of CRX extension here](https://github.com/owocki/amurrica/blob/master/Amurica.crx?raw=true).
+* [Direct download of CRX extension here (developers only) ](https://github.com/owocki/amurrica/blob/master/Amurica.crx?raw=true).
 
 Happy 4th of July!
 
