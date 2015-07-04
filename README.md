@@ -4,7 +4,7 @@ Amurrica!
 > Amurrica, AKA Amurrica!, as in the most badass country on the planet. Amurricans shoot first and ask questions later. Amurrica is kickin' ass and takin' names. Land of the free and home of the bravest motherfuckers around. Don't mess with Amurrica, punk!
 > [~Urban Dictionary](http://www.urbandictionary.com/define.php?term=Amurrica)
 
-Thanks for stopping by the git repo for my chrome extension that replaces occurrences of 'America' with 'Amurrica!`. Heavy inspiration (and this fork derives from) comes from [Cloud to Butt](https://github.com/panicsteve/cloud-to-butt).  Thanks [PanicSteve](https://github.com/panicsteve/)!
+Git repo for a chrome extension that replaces occurrences of 'America' with 'Amurrica!`. Heavy inspiration (and this fork derives from) comes from [Cloud to Butt](https://github.com/panicsteve/cloud-to-butt).  Thanks [PanicSteve](https://github.com/panicsteve/)!
 
 * [Direct download of CRX extension here (developers only) ](https://github.com/owocki/amurrica/blob/master/Amurica.crx?raw=true).
 
